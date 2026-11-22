@@ -1,9 +1,8 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Priyadharshini S | **Reg. No.:** |26018313 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
-
+| **Date:** |22-11-2026 | 
 ---
 
 ## AIM
@@ -47,39 +46,23 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="1600" height="932" alt="WhatsApp Image 2026-11-22 at 3 41 17 PM" src="https://github.com/user-attachments/assets/52048a47-f3f8-40ae-934e-12689f8db713" />
 
-**Figure 1:** Staircase wiring – direct connection
 
 ### Tabulation 1: Truth table – direct connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
-
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="1600" height="1133" alt="WhatsApp Image 2026-11-22 at 3 41 31 PM" src="https://github.com/user-attachments/assets/3387048d-1915-486a-ba6c-4010b3d30497" />
 
 ## B. CROSS CONNECTION
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
-
-**Figure 2:** Staircase wiring – cross connection
+<img width="1600" height="944" alt="WhatsApp Image 2026-11-22 at 3 41 46 PM" src="https://github.com/user-attachments/assets/6925ecc5-b472-479c-aa6b-cab4ac3c392f" />
 
 ### Tabulation 2: Truth table – cross connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
+<img width="1600" height="1202" alt="WhatsApp Image 2026-11-22 at 3 41 56 PM" src="https://github.com/user-attachments/assets/990b7b0e-8d9c-4ba3-878e-51cfb5875406" />
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
 
 ## SIMULATION USING PROTEUS
 
@@ -87,15 +70,15 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
-
-**Figure 3:** Proteus simulation – direct connection
+<img width="821" height="592" alt="Screenshot 2026-11-22 150348" src="https://github.com/user-attachments/assets/179dd444-690d-47c7-8b0a-b11c583b0c59" />
+<img width="801" height="402" alt="Screenshot 2026-11-22 150417" src="https://github.com/user-attachments/assets/c984febb-cc34-4e67-8ff1-cc58d137c1ee" />
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="772" height="408" alt="Screenshot 2026-11-22 150427" src="https://github.com/user-attachments/assets/9227b50b-05aa-459f-adaf-ed76f94dd20e" />
+<img width="736" height="433" alt="Screenshot 2026-11-22 150445" src="https://github.com/user-attachments/assets/871b1180-ec16-41a8-b66d-505661f6d1e8" />
 
-**Figure 4:** Proteus simulation – cross connection
+
 
 ## RESULT
 
